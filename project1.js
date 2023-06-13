@@ -1,4 +1,4 @@
-/* // VARIABLES
+// VARIABLES
 const button = document.querySelector('#new-quote')
 const quote = document.querySelector('.text-area')
 const person = document.querySelector('.person')
@@ -40,4 +40,3 @@ button.addEventListener('click', function(){
 
 
 
- */
