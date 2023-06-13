@@ -1,0 +1,62 @@
+/* /* GENERAL STYLES */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-flow: column; 
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url(library2.jpg);
+    margin: auto;
+}
+
+.heading {
+    background: #262626;
+    border: 3px solid #fff;
+    border-radius: 5px;
+    color: white;
+    font-size: 1.5rem;
+    width: 80%;
+    padding: 5px;
+}
+
+.main-content {
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 8px 10px;
+    height: 300px;
+    line-height: 2rem;
+    margin-top: 30px;
+    width: 80%;
+}
+
+.main-content .text-area {
+    font-size: 1.5rem;
+    padding: 20px 25px;
+}
+
+.main-content .person {
+    color: red;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+.button-area button {
+    background: rgb(31, 30, 30);
+    border-radius: 5px;
+    color: #fff;
+    font-size: 1.4rem;
+    margin-top: 20px;
+    padding: 5px 20px;
+}
+
+.button-area button:active {
+    background-color: blue;
+} */
